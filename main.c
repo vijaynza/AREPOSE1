@@ -1,0 +1,3 @@
+include <stud.io>
+:q
+
